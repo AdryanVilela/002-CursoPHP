@@ -39,6 +39,11 @@
                                 Operadores Lógicos
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
+                                Desafio Operador Logico
+                            </a>
+                        </li>
                      </ul>
                 </div>
                
